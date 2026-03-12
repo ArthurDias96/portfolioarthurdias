@@ -34,6 +34,14 @@ function About() {
             da história que estou construindo com calma, consistência e
             intenção.
           </p>
+          <p>
+            Hoje meu foco está em <strong>front-end para e-commerce</strong>,
+            trabalhando com <strong>React, Vue, TypeScript</strong> e plataformas
+            como <strong>VTEX IO, VTEX CMS, Wake e Deco</strong>. Gosto de unir
+            performance, SEO técnico e uma boa experiência de navegação para que
+            cada página realmente ajude o negócio a vender mais e o usuário a
+            encontrar o que precisa sem fricção.
+          </p>
         </motion.div>
       </div>
     </section>

@@ -1,7 +1,7 @@
 export const experience = [
   {
     company: "Projeto Freelancer FIFA FRIENDS",
-    role: "Coodernador de TI & Desenvolvedor Front-end",
+    role: "Desenvolvedor Front-end",
     period: "2025 — Presente",
     tech: "React · TypeScript · SASS · React Router DOM · i18next",
     description:
@@ -17,7 +17,7 @@ export const experience = [
   },
   {
     company: "Benova",
-    role: "DESENVOLVEDOR FRONT-END PLENO I",
+    role: "DESENVOLVEDOR FRONT-END",
     period: "2024 — 2024",
     tech: "VTEX IO · Wake · HTML5 · CSS3 · SASS · TypeScript · React · Node.js · GraphQL · REST API · Adobe XD",
     description:

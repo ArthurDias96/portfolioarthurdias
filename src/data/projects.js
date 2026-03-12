@@ -56,12 +56,4 @@ export const projects = [
     link: "https://arthurdias.vercel.app",
     isPrivateCode: false,
   },
-  {
-    title: "App Interno (Privado)",
-    stack: "React · Node · PostgreSQL",
-    description: "Projeto interno com acesso restrito. Código sob NDA.",
-    githubRepo: null,
-    link: "#",
-    isPrivateCode: true,
-  },
 ];

@@ -39,6 +39,16 @@ function Skills() {
     <section className="skills" id="skills">
       <div className="container">
         <h2 className="title">Stacks</h2>
+        <p className="muted" style={{ maxWidth: 640, marginBottom: 20 }}>
+          No dia a dia, trabalho principalmente com{" "}
+          <strong>HTML5, CSS3, Sass, Tailwind, JavaScript, TypeScript</strong>{" "}
+          e frameworks como <strong>React</strong> e <strong>Vue</strong>,
+          sempre muito próximo de plataformas de e-commerce como{" "}
+          <strong>VTEX IO, VTEX CMS, Wake e Deco</strong>. Também tenho base em{" "}
+          <strong>Node.js, Python, PHP</strong> e consumo de{" "}
+          <strong>APIs REST/GraphQL</strong> para integrar o front com o que
+          acontece do lado do servidor.
+        </p>
         <div className="skills__grid">
           {skills.map(({ name, icon: Icon }, idx) => (
             <motion.div
