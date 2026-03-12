@@ -1,4 +1,5 @@
 import { lazy, Suspense } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import "./styles/globals.scss";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -27,6 +28,7 @@ function App() {
       <Suspense fallback={null}>
         <Footer />
       </Suspense>
+      <Analytics />
     </>
   );
 }
